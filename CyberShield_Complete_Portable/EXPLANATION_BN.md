@@ -42,7 +42,7 @@ PowerShell, ipconfig, ping ও tracert subprocess hidden/no-console mode-এ চ
 - কাজের সময় কয়েক মুহূর্তের জন্য network disconnect হতে পারে এবং Administrator permission লাগে।
 - এটি DHCP থেকে পাওয়া Local IP renew করে। Public IP পরিবর্তন নিশ্চিত করে না; ISP/router-এর public IP আলাদা বিষয়।
 
-## HWiNFO-এর মতো Hardware Inventory
+## Hardware Inventory
 - `Hardware Details` tab-এ CPU, RAM module, motherboard, BIOS, graphics adapter এবং storage model/capacity দেখায়, Windows CIM/WMI যতটুকু তথ্য দেয়।
 - Live temperature, fan RPM, voltage এবং সব sensor-এর তথ্য standard Windows interface থেকে সব PC-তে পাওয়া যায় না। তাই HWiNFO-এর সম্পূর্ণ sensor panel-এর সমতুল্য নয়।
 
